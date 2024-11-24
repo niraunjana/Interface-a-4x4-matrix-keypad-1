@@ -1,4 +1,4 @@
-# Interfacing a 4x4 matrix keypad
+# Project : Interfacing a 4x4 matrix keypad
 
 ## Aim: 
 To simulate the interface of a 4x4 matrix keypad to ARM controller and display the output on 16X2 LCD for arithmetic operation only.
@@ -15,9 +15,9 @@ STM32 CUBE IDE, Proteus 8 simulator .
  
 ## Program
 
-### Name : PRIYANKA A
+### Name   : NIRAUNJANA GAYATHRI G R
 
-### Reg no : 212222230113
+### Reg no : 212222230096
 
 ```c
 #include "main.h"
@@ -266,8 +266,11 @@ int main(void)
 ```
 
 ## Output screen shots of proteus
+
 ![Screenshot 2024-11-11 211323](https://github.com/user-attachments/assets/6ee003bd-d834-4a9b-a6d1-809c4d071587)
+
 ![Screenshot 2024-11-11 211201](https://github.com/user-attachments/assets/45363509-51da-41b2-9e74-3d74cc96fde3)
+
 
 ## Result :
 Interfaced a 4x4 matrix keypad with ARM microcontroller and displayed the output on 16X2 LCD for arithmetic operation in simulation.
